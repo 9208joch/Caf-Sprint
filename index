@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>caf-sprint</title>
+    <!--<link rel="stylesheet" href="controller.css" /> -->
+</head>
+<body>
+
+     <header>
+      <h1><!--sidans rubrik --></h1>
+    </header>
+    <section id="home" class="headpic">
+      <img
+        src="bilder/exempel.jpg"                            <!-- bild vid tid --> 
+        alt="bildnamn"                                      <!-- beskrivning av bilden -->
+        width="900"                                         <!--Behövs???  -->
+      />
+      <h2>Rubrik under bild</h2> <!--hitta något -->
+
+      <p>Text under bild och rubrik</p>
+    </section>
+    <main>
+
+        <!------------------------------------------------------------------------------------->
+
+      <section id="zaid" class="zaidsection">
+
+        <h2>About me</h2>  <!--Rubrik om mig-->
+
+        <p>
+          Paragraf 1
+        </p>
+
+        <p>
+          Paragraf 2
+        </p>
+        </section>
+
+        <!------------------------------------------------------------------------------------->
+
+        <!------------------------------------------------------------------------------------->
+
+      <section id="oscar" class="oscarsection">
+
+        <h2>About me</h2>  <!--Rubrik om mig-->
+
+        <p>
+          Paragraf 1
+        </p>
+
+        <p>
+          Paragraf 2
+        </p>
+        </section>
+
+        <!------------------------------------------------------------------------------------->
+
+        <!------------------------------------------------------------------------------------->
+
+      <section id="ruhollah" class="ruhollahsection">
+
+        <h2>About me</h2>  <!--Rubrik om mig-->
+
+        <p>
+          Paragraf 1
+        </p>
+
+        <p>
+          Paragraf 2
+        </p>
+        </section>
+
+        <!------------------------------------------------------------------------------------->
+
+        <!------------------------------------------------------------------------------------->
+
+      <section id="kim" class="kimsection">
+
+        <h2>About me</h2>  <!--Rubrik om mig-->
+
+        <p>
+          Paragraf 1
+        </p>
+
+        <p>
+          Paragraf 2
+        </p>
+        </section>
+
+        <!------------------------------------------------------------------------------------->
+
+
+
+
+    </main>
+    
+</body>
+</html>
