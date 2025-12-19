@@ -78,21 +78,16 @@
 
       <section id="kim" class="kimsection">
 
-        <h2>Rubrik</h2>  <!--Rubrik-->
+        <h2>Värdegrund: Café Svärdet</h2>  <!--Rubrik-->
 
         <p>
-          Paragraf 1
-        </p>
-
-        <p>
-          Paragraf 2
+           På Café Svärdet sätter vi kunden i centrum och möter varje gäst med värme, respekt och omtanke. 
+           Vi prioriterar ekologiska råvaror och hållbara val för att bidra till både människors välmående och en bättre miljö.
+           Med kvalitet, ansvar och personlig service skapar vi en trivsam caféupplevelse för alla.
         </p>
         </section>
 
         <!------------------------------------------------------------------------------------->
-
-
-
 
     </main>
     
@@ -100,4 +95,3 @@
 </html>
 
 
-bbb
