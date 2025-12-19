@@ -9,13 +9,13 @@
 <body>
 
      <header>
-      <h1><!--sidans rubrik --></h1>
+      <h1>Café Svärdet</h1>
     </header>
     <section id="home" class="headpic">
       <img
-        src="bilder/exempel.jpg"                            <!-- bild vid tid --> 
-        alt="bildnamn"                                      <!-- beskrivning av bilden -->
-        width="900"                                         <!--Behövs???  -->
+        src="Pic/Coffe.jpg"                           
+        alt="picture of coffee"                                
+        width="900"                                 
       />
       <h2>Rubrik under bild</h2> <!--hitta något -->
 
