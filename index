@@ -9,13 +9,13 @@
 <body>
 
      <header>
-      <h1><!--sidans rubrik --></h1>
+      <h1>Café Svärdet</h1>
     </header>
     <section id="home" class="headpic">
       <img
-        src="bilder/exempel.jpg"                            <!-- bild vid tid --> 
-        alt="bildnamn"                                      <!-- beskrivning av bilden -->
-        width="900"                                         <!--Behövs???  -->
+        src="Pic/Coffe.jpg"                           
+        alt="picture of coffee"                                
+        width="900"                                 
       />
       <h2>Rubrik under bild</h2> <!--hitta något -->
 
@@ -23,7 +23,7 @@
     </section>
     <main>
 
-        <!------------------------------------------------------------------------------------->
+        <---------------------------------------------------------------------------------->
 
       <section id="Cafe" class="zaidsection">
 
@@ -56,9 +56,9 @@
     </table>
         </section>
 
-        <!------------------------------------------------------------------------------------->
+        <---------------------------------------------------------------------------------->
 
-        <!------------------------------------------------------------------------------------->
+        <---------------------------------------------------------------------------------->
 
       <section id="oscar" class="oscarsection">
 
@@ -73,29 +73,51 @@
         </p>
         </section>
 
-        <!------------------------------------------------------------------------------------->
+        <---------------------------------------------------------------------------------->
 
-        <!------------------------------------------------------------------------------------->
+        <---------------------------------------------------------------------------------->
 
       <section id="ruhollah" class="ruhollahsection">
 
+<<<<<<< HEAD
         <h2>About me</h2>  <!--Rubrik om mig-->
+=======
+        <h2>Bakgrund om cafeét</h2>  <!--Rubrik -->
 
         <p>
-          Paragraf 1
-        </p>
+        Caféet grundades med visionen att skapa en trivsam mötesplats där människor kan samlas för att njuta av god mat och dryck i en avslappnad miljö. Med inspiration från både traditionella och moderna cafékoncept strävar caféet efter att erbjuda hög kvalitet, personlig service och en varm atmosfär.
+        Verksamheten bygger på en passion för kaffe, nybakade bakverk och enkla men vällagade rätter. Råvarorna väljs med omsorg och fokus ligger på färska ingredienser samt hållbara val. Caféet är utformat för att passa både snabba besök och längre stunder, oavsett om gästerna kommer för arbete, studier eller sociala möten.
+        Sedan starten har caféet haft som mål att bli en naturlig del av närområdet och bidra till gemenskapen genom att vara en plats där alla känner sig välkomna.
+        </p> 
 
         <p>
           Paragraf 2
         </p>
         </section>
 
-        <!------------------------------------------------------------------------------------->
+        <---------------------------------------------------------------------------------->
 
-        <!------------------------------------------------------------------------------------->
+        <---------------------------------------------------------------------------------->
 
       <section id="kim" class="kimsection">
 
+        <h2>Rubrik</h2>  <!--Rubrik-->
+>>>>>>> c99dc8790184398955b05f9a6b4fda35802e33de
+
+        <p>
+          Paragraf 1
+        </p>
+
+        <p>
+          Paragraf 2
+        </p>
+        </section>
+
+        <---------------------------------------------------------------------------------->
+
+
+
+<<<<<<< HEAD
         <h2>About me</h2>  <!--Rubrik om mig-->
 
         <p>
@@ -108,6 +130,8 @@
         </section>
 
         <!------------------------------------------------------------------------------------->
+=======
+>>>>>>> c99dc8790184398955b05f9a6b4fda35802e33de
 
 
 
@@ -116,3 +140,9 @@
     
 </body>
 </html>
+<<<<<<< HEAD
+=======
+
+
+bbb
+>>>>>>> c99dc8790184398955b05f9a6b4fda35802e33de
