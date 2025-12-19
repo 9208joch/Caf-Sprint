@@ -6,24 +6,23 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Bakgrund */
+/* Grundlayout */
 body {
-  background-color: #f6f1eb;
-  color: #3b2a25;
+  background-color: #f7f3ee;
+  color: #614242;
   line-height: 1.6;
 }
 
 /* Header */
 header {
-  background-color: #6b4a3d;
-  color: #fff;
+  background-color: rgb(97, 66, 66);
+  color: #f7f3ee;
   padding: 1.5rem 0;
   text-align: center;
 }
 
 header h1 {
   font-size: 2.5rem;
-  letter-spacing: 1px;
 }
 
 /* Bildsektion */
@@ -34,7 +33,7 @@ header h1 {
 
 .headpic img {
   max-width: 100%;
-  border-radius: 12px;
+  border-radius: 14px;
   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
   margin-bottom: 1rem;
 }
@@ -45,47 +44,45 @@ header h1 {
 }
 
 .headpic p {
-  font-size: 1rem;
-  color: #5a463f;
+  color: #614242;
 }
 
-/* Main layout */
+/* Main container */
 main {
   max-width: 1000px;
   margin: 0 auto;
   padding: 2rem 1rem;
 }
 
-/* Gemensam stil för alla sektioner */
+/* Sektioner */
 section {
-  background-color: #e6f0ea;
+  background-color: #e1ece6;
   padding: 2rem;
   margin-bottom: 2rem;
   border-radius: 16px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
 }
 
-/* Rubriker i sektioner */
+/* Rubriker */
 section h2 {
   margin-bottom: 1rem;
   font-size: 1.6rem;
-  color: #3b2a25;
+  color: #614242;
 }
 
-/* Paragrafer */
+/* Text */
 section p {
   margin-bottom: 1rem;
   font-size: 1rem;
   color: #3f3f3f;
 }
 
-/* Specifik värdegrundssektion */
+/* Värdegrund – extra markering */
 .kimsection {
-  background-color: #dfeee7;
-  border-left: 6px solid #6b4a3d;
+  border-left: 6px solid rgb(97, 66, 66);
 }
 
-/* Responsiv justering */
+/* Responsivt */
 @media (max-width: 768px) {
   header h1 {
     font-size: 2rem;
