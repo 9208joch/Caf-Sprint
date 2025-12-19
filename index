@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>caf-sprint</title>
-    <link rel="stylesheet" href="controller.css" />
+    <!--<link rel="stylesheet" href="controller.css" /> -->
 </head>
 <body>
 
@@ -25,17 +25,35 @@
 
         <!------------------------------------------------------------------------------------->
 
-      <section id="zaid" class="zaidsection">
+      <section id="Cafe" class="zaidsection">
 
-        <h2>Rubrik</h2>  <!--Rubrik -->
+        <h2>Mål för Cafe</h2> 
+         
+        <p>Här är de viktigaste målsättningarna för vår verksamhet</p>
 
-        <p>
-          Paragraf 1
-        </p>
-
-        <p>
-          Paragraf 2
-        </p>
+        <ul>
+            <li><strong>Kundservice:</strong> att alla gäster får ett trevligt bemötande och snabb hjälp.</li>
+            <li><strong>utbud</strong>Att erbjuda ett fräscht sortiment med både fika och hälsosamma alternativ.</li>
+             <li><strong>miljö</strong>Att skapa en trivsam och ren mötesplats för alla.</li>
+        </ul>
+       <table broder="1">
+        <thead>
+          <tr>
+           <th>Fouksområde</th>
+           <th>mål</th>
+           </tr>
+        </thead>
+           <tbody>
+            <tr>
+                <td>Ekonomi</td>
+                <td>Öka försäljningen genom smarta erbjudanden.</td>
+            </tr>
+            <tr>
+                <td>Hållbarhet</td>
+                <td>Minska matsvinnet och använda miljövänliga förpackningar.</td>
+            </tr>
+        </tbody>
+    </table>
         </section>
 
         <!------------------------------------------------------------------------------------->
@@ -44,7 +62,7 @@
 
       <section id="oscar" class="oscarsection">
 
-        <h2>Rubrik</h2>  <!--Rubrik -->
+        <h2>About me</h2>  <!--Rubrik om mig-->
 
         <p>
           Paragraf 1
@@ -61,7 +79,7 @@
 
       <section id="ruhollah" class="ruhollahsection">
 
-        <h2>Rubrik</h2>  <!--Rubrik -->
+        <h2>About me</h2>  <!--Rubrik om mig-->
 
         <p>
           Paragraf 1
@@ -78,20 +96,23 @@
 
       <section id="kim" class="kimsection">
 
-        <h2>Värdegrund: Café Svärdet</h2>  <!--Rubrik-->
+        <h2>About me</h2>  <!--Rubrik om mig-->
 
         <p>
-           På Café Svärdet sätter vi kunden i centrum och möter varje gäst med värme, respekt och omtanke. 
-           Vi prioriterar ekologiska råvaror och hållbara val för att bidra till både människors välmående och en bättre miljö.
-           Med kvalitet, ansvar och personlig service skapar vi en trivsam caféupplevelse för alla.
+          Paragraf 1
+        </p>
+
+        <p>
+          Paragraf 2
         </p>
         </section>
 
         <!------------------------------------------------------------------------------------->
 
+
+
+
     </main>
     
 </body>
 </html>
-
-
