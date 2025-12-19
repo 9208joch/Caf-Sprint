@@ -27,7 +27,7 @@
 
       <section id="zaid" class="zaidsection">
 
-        <h2>About me</h2>  <!--Rubrik om mig-->
+        <h2>Rubrik</h2>  <!--Rubrik -->
 
         <p>
           Paragraf 1
@@ -44,7 +44,7 @@
 
       <section id="oscar" class="oscarsection">
 
-        <h2>About me</h2>  <!--Rubrik om mig-->
+        <h2>Rubrik</h2>  <!--Rubrik -->
 
         <p>
           Paragraf 1
@@ -61,7 +61,7 @@
 
       <section id="ruhollah" class="ruhollahsection">
 
-        <h2>About me</h2>  <!--Rubrik om mig-->
+        <h2>Rubrik</h2>  <!--Rubrik -->
 
         <p>
           Paragraf 1
@@ -78,7 +78,7 @@
 
       <section id="kim" class="kimsection">
 
-        <h2>About me</h2>  <!--Rubrik om mig-->
+        <h2>Rubrik</h2>  <!--Rubrik-->
 
         <p>
           Paragraf 1
