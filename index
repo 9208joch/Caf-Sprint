@@ -28,11 +28,7 @@
       <section id="Cafe" class="zaidsection">
 
         <h2>Mål för Cafe</h2> 
-<<<<<<< HEAD
 
-        <p>Här är de viktigaste målsättningarna för vår verksamhet</p>
-
-=======
          
         <p>Här är de viktigaste målsättningarna för vår verksamhet</p>
 
@@ -68,12 +64,10 @@
 
       <section id="oscar" class="oscarsection">
 
-<<<<<<< HEAD
-        <h2>🗡️ Kafé Svärdet – mötesplats för lärande och gemenskap</h2>  <!--Rubrik -->
-=======
-        <h2>About me</h2>  <!--Rubrik om mig-->
 
->>>>>>> ddd96b8b0967127a5803c95465935ee42989a28c
+        <h2>🗡️ Kafé Svärdet – mötesplats för lärande och gemenskap</h2>  <!--Rubrik -->
+
+
         <p>
           Kafé Svärdet öppnade i början av 1990-talet som ett litet kvarterskafé nära Uddevalla vuxenutbildning. 
           Grundaren, läraren Karin Svärd, ville skapa en plats där studerande och lärare kunde mötas över en kopp kaffe och samtidigt inspireras till samtal om kunskap och framtid.
@@ -96,9 +90,9 @@
 
       <section id="ruhollah" class="ruhollahsection">
 
-<<<<<<< HEAD
+
         <h2>About me</h2>  <!--Rubrik om mig-->
-=======
+
         <h2>Bakgrund om cafeét</h2>  <!--Rubrik -->
 
         <p>
@@ -118,12 +112,8 @@
 
       <section id="kim" class="kimsection">
 
-<<<<<<< HEAD
+
         <h2>Värdegrund: Café Svärdet</h2>  <!--Rubrik-->
-=======
-        <h2>Rubrik</h2>  <!--Rubrik-->
->>>>>>> c99dc8790184398955b05f9a6b4fda35802e33de
->>>>>>> ddd96b8b0967127a5803c95465935ee42989a28c
 
         <p>
            På Café Svärdet sätter vi kunden i centrum och möter varje gäst med värme, respekt och omtanke. 
@@ -132,43 +122,15 @@
         </p>
         </section>
 
-<<<<<<< HEAD
-        <!------------------------------------------------------------------------------------->
-=======
-        <---------------------------------------------------------------------------------->
-
-
-
-<<<<<<< HEAD
-        <h2>About me</h2>  <!--Rubrik om mig-->
-
-        <p>
-          Paragraf 1
-        </p>
-
-        <p>
-          Paragraf 2
-        </p>
-        </section>
 
         <!------------------------------------------------------------------------------------->
-=======
->>>>>>> c99dc8790184398955b05f9a6b4fda35802e33de
 
 
 
->>>>>>> ddd96b8b0967127a5803c95465935ee42989a28c
+
+
 
     </main>
     
 </body>
 </html>
-<<<<<<< HEAD
-=======
-
-
-<<<<<<< HEAD
-=======
-bbb
->>>>>>> c99dc8790184398955b05f9a6b4fda35802e33de
->>>>>>> ddd96b8b0967127a5803c95465935ee42989a28c
