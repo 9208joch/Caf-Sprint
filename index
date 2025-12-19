@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>caf-sprint</title>
-    <!--<link rel="stylesheet" href="controller.css" /> -->
+    <link rel="stylesheet" href="controller.css" />
 </head>
 <body>
 
@@ -23,78 +23,97 @@
     </section>
     <main>
 
-        <---------------------------------------------------------------------------------->
+        <!------------------------------------------------------------------------------------->
 
       <section id="zaid" class="zaidsection">
 
-        <h2>Rubrik</h2>  <!--Rubrik -->
+        <h2>Mål för Cafe</h2> 
 
-        <p>
-          Paragraf 1
-        </p>
+        <p>Här är de viktigaste målsättningarna för vår verksamhet</p>
 
-        <p>
-          Paragraf 2
-        </p>
+        <ul>
+            <li><strong>Kundservice:</strong> att alla gäster får ett trevligt bemötande och snabb hjälp.</li>
+            <li><strong>utbud</strong>Att erbjuda ett fräscht sortiment med både fika och hälsosamma alternativ.</li>
+             <li><strong>miljö</strong>Att skapa en trivsam och ren mötesplats för alla.</li>
+        </ul>
+       <table broder="1">
+        <thead>
+          <tr>
+           <th>Fouksområde</th>
+           <th>mål</th>
+           </tr>
+        </thead>
+           <tbody>
+            <tr>
+                <td>Ekonomi</td>
+                <td>Öka försäljningen genom smarta erbjudanden.</td>
+            </tr>
+            <tr>
+                <td>Hållbarhet</td>
+                <td>Minska matsvinnet och använda miljövänliga förpackningar.</td>
+            </tr>
+        </tbody>
+    </table>
         </section>
 
-        <---------------------------------------------------------------------------------->
+        <!------------------------------------------------------------------------------------->
 
-        <---------------------------------------------------------------------------------->
+        <!------------------------------------------------------------------------------------->
 
       <section id="oscar" class="oscarsection">
 
-        <h2>Rubrik</h2>  <!--Rubrik -->
-
+        <h2>🗡️ Kafé Svärdet – mötesplats för lärande och gemenskap</h2>  <!--Rubrik -->
         <p>
-          Paragraf 1
+          Kafé Svärdet öppnade i början av 1990-talet som ett litet kvarterskafé nära Uddevalla vuxenutbildning. 
+          Grundaren, läraren Karin Svärd, ville skapa en plats där studerande och lärare kunde mötas över en kopp kaffe och samtidigt inspireras till samtal om kunskap och framtid.
+        </p>
+        <p>
+          Med tiden blev kaféet en naturlig förlängning av skolmiljön – ett ställe där elever kunde plugga, diskutera och koppla av. 
+          Väggarna pryds av böcker, gamla kartor och citat om lärande, vilket förstärker känslan av att kaféet är en del av utbildningens kultur.
         </p>
 
         <p>
-          Paragraf 2
+          Idag drivs Kafé Svärdet fortfarande i nära samarbete med vuxenutbildningen. 
+          Förutom klassiska bakverk och lokalt rostat kaffe erbjuder de även temakvällar med föreläsningar, språkcaféer och studiehjälp. 
+          Det har blivit en symbol för hur gemenskap och kunskap kan gå hand i hand i Uddevalla.
         </p>
         </section>
 
-        <---------------------------------------------------------------------------------->
+        <!------------------------------------------------------------------------------------->
 
-        <---------------------------------------------------------------------------------->
+        <!------------------------------------------------------------------------------------->
 
       <section id="ruhollah" class="ruhollahsection">
 
         <h2>Bakgrund om cafeét</h2>  <!--Rubrik -->
 
         <p>
-        Caféet grundades med visionen att skapa en trivsam mötesplats där människor kan samlas för att njuta av god mat och dryck i en avslappnad miljö. Med inspiration från både traditionella och moderna cafékoncept strävar caféet efter att erbjuda hög kvalitet, personlig service och en varm atmosfär.
+          Caféet grundades med visionen att skapa en trivsam mötesplats där människor kan samlas för att njuta av god mat och dryck i en avslappnad miljö. Med inspiration från både traditionella och moderna cafékoncept strävar caféet efter att erbjuda hög kvalitet, personlig service och en varm atmosfär.
         Verksamheten bygger på en passion för kaffe, nybakade bakverk och enkla men vällagade rätter. Råvarorna väljs med omsorg och fokus ligger på färska ingredienser samt hållbara val. Caféet är utformat för att passa både snabba besök och längre stunder, oavsett om gästerna kommer för arbete, studier eller sociala möten.
         Sedan starten har caféet haft som mål att bli en naturlig del av närområdet och bidra till gemenskapen genom att vara en plats där alla känner sig välkomna.
-        </p> 
+        </p>
 
         <p>
           Paragraf 2
         </p>
         </section>
 
-        <---------------------------------------------------------------------------------->
+        <!------------------------------------------------------------------------------------->
 
-        <---------------------------------------------------------------------------------->
+        <!------------------------------------------------------------------------------------->
 
       <section id="kim" class="kimsection">
 
-        <h2>Rubrik</h2>  <!--Rubrik-->
+        <h2>Värdegrund: Café Svärdet</h2>  <!--Rubrik-->
 
         <p>
-          Paragraf 1
-        </p>
-
-        <p>
-          Paragraf 2
+           På Café Svärdet sätter vi kunden i centrum och möter varje gäst med värme, respekt och omtanke. 
+           Vi prioriterar ekologiska råvaror och hållbara val för att bidra till både människors välmående och en bättre miljö.
+           Med kvalitet, ansvar och personlig service skapar vi en trivsam caféupplevelse för alla.
         </p>
         </section>
 
-        <---------------------------------------------------------------------------------->
-
-
-
+        <!------------------------------------------------------------------------------------->
 
     </main>
     
@@ -102,4 +121,3 @@
 </html>
 
 
-bbb
